@@ -42,20 +42,20 @@ header {
   margin: 0 0 5px 0;
   padding: 10px 15px;
 }
-.message-box-luke {
+.message-box-zelo {
   align-self: flex-end;
 }
 
-.message-box-luke {
+.message-box-zelo {
   text-align: right;
 }
 
-.message-box-luke .message-content {
+.message-box-zelo .message-content {
   background: lightblue;
   border-radius: 15px 15px 0 15px;
 }
 
-.message-box-yoda .message-content {
+.message-box-user .message-content {
   background: lightgreen;
 }
 
