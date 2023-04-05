@@ -27,8 +27,7 @@ h2 {
 }
 
 .chatbox-container {
-  border-left: 1px solid black;
-  border-right: 1px solid black;
+  border: 1px solid black;
   display: flex;
   max-width: 320px;
   margin: auto;
@@ -43,6 +42,7 @@ h2 {
   border-radius: 50%;
   margin-bottom: 12px;
 }
+
 .image-profil-zelo {
   display: block;
   margin-right: auto;
@@ -59,11 +59,12 @@ h2 {
 }
 
 .contenu-sms {
-  border-radius: 15px 15px 15px 15px;
+  border-radius: 15px;
   font-family: Arial, Helvetica, sans-serif;
   margin: 0 0 5px 0;
   padding: 10px 10px;
 }
+
 .container-sms-user {
   align-self: flex-end;
 }
@@ -74,7 +75,7 @@ h2 {
 
 .container-sms-zelo .contenu-sms {
   background: lightblue;
-  border-radius: 15px 15px 15px 15px;
+  border-radius: 15px;
 }
 
 .container-sms-user .contenu-sms {
