@@ -2,7 +2,6 @@ body {
   max-width: 320px;
   margin: auto;
   background: whitesmoke;
-  background-image: url(../img/fond_ecran.png);
 }
 
 img {
@@ -35,6 +34,8 @@ h2 {
   margin: auto;
   flex-direction: column;
   align-items: left;
+  background-image: url(../img/fond_ecran.png);
+  background-size: 400px;
 }
 
 .image-profil {
@@ -91,6 +92,10 @@ h2 {
   font-size: 12px;
   margin: 0;
   margin-right: 10px;
+}
+
+.robot {
+  text-align: center;
 }
 
 footer {
