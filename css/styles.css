@@ -1,7 +1,7 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #ddd;
+  background: whitesmoke;
 }
 
 img {
@@ -76,14 +76,14 @@ h2 {
 }
 
 .container-sms-user .contenu-sms {
-  background: lightgreen;
+  background: lightgray;
 }
 
 footer {
-  background: gray;
+  background: #36A9E1;
   display: flex;
   justify-content: center;
-  padding: 20px 20px 40px 20px;
+  padding: 20px;
   position: sticky;
   bottom: 0;
 }
